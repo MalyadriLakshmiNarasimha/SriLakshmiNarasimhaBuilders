@@ -29,8 +29,8 @@ export default function Contact() {
     setSubmitStatus(null)
     
     try {
-      // Send email via backend API
-      const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001/api/contact'
+      // Send email via backend API or serverless function
+      const API_URL = import.meta.env.VITE_API_URL || '/.netlify/functions/contact'
       
       const response = await fetch(API_URL, {
         method: 'POST',
