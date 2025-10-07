@@ -119,25 +119,25 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start text-sm">
                 <MapPin size={18} className="mr-3 mt-1 text-primary-400 flex-shrink-0" />
-                <span>123 Builder Street, Real Estate District, City - 500001</span>
+                <span>Near Ayyappa Temple, Kamala Nagar,Ecil</span>
               </li>
               <li className="flex items-center text-sm">
                 <Phone size={18} className="mr-3 text-primary-400 flex-shrink-0" />
-                <a href="tel:+919876543210" className="hover:text-primary-400 transition-colors">
-                  +91 98765 43210
+                <a href="tel:+919989625479" className="hover:text-primary-400 transition-colors">
+                  +91 9989625479
                 </a>
               </li>
               <li className="flex items-center text-sm">
                 <Mail size={18} className="mr-3 text-primary-400 flex-shrink-0" />
-                <a href="mailto:info@slnbuilders.com" className="hover:text-primary-400 transition-colors">
-                  info@slnbuilders.com
+                <a href="mailto:srilakshminarasimhabuilders117@gmail.com" className="hover:text-primary-400 transition-colors">
+                srilakshminarasimhabuilders117@gmail.com
                 </a>
               </li>
               <li className="flex items-start text-sm">
                 <Clock size={18} className="mr-3 mt-1 text-primary-400 flex-shrink-0" />
                 <div>
                   <p>Mon - Sat: 9:00 AM - 6:00 PM</p>
-                  <p>Sunday: Closed</p>
+                  <p>Sunday: 10:00 AM - 5:00 PM</p>
                 </div>
               </li>
             </ul>
