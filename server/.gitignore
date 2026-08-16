@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Local lead database
+leads.db
+leads.db-journal
+leads.db-wal
+leads.db-shm
+
+# OS files
+.DS_Store
+Thumbs.db

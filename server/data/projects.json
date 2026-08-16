@@ -1,0 +1,516 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "propertyGroupId": "sri-lakshmi-arcade-kamala-nagar-ecil",
+      "name": "Sri Lakshmi arcade",
+      "description": "Luxury residential apartments with modern amenities and spacious layouts in the heart of the city.",
+      "location": "Kamala Nagar,Ecil,Hyderabad",
+      "image": "/images/project1.jpg",
+      "additionalImages": [
+        "/images/project1/project-1.1.jpg"
+      ],
+      "pdfFiles": [
+        {
+          "name": "Project Brochure",
+          "path": "/images/project1/project-1.pdf"
+        },
+        {
+          "name": "Floor Plans",
+          "path": "/images/project1/project-1.2.pdf"
+        }
+      ],
+      "units": 10,
+      "status": "ongoing",
+      "completionDate": "December 2025",
+      "category": "residential",
+      "amenities": [
+        "24/7 Security & CCTV Surveillance",
+        "Power Backup",
+        "Covered Car Parking",
+        "Children's Play Area",
+        "Landscaped Gardens",
+        "Rainwater Harvesting",
+        "Community Hall",
+        "Lift Access"
+      ],
+      "unitAvailability": [
+        {
+          "type": "2 BHK",
+          "size": "950-1100 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "3 BHK",
+          "size": "1350-1550 sq.ft",
+          "price": "On Request",
+          "status": "Limited",
+          "verified": false
+        },
+        {
+          "type": "4 BHK",
+          "size": "1800-2100 sq.ft",
+          "price": "On Request",
+          "status": "Few Units Left",
+          "verified": false
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243647.3160419252!2d78.24323089999999!3d17.4123487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99daeaebd2c7%3A0xae93b78392bafbc2!2sHyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1234567890"
+    },
+    {
+      "id": 2,
+      "propertyGroupId": "sri-lakshmi-arcade-kamala-nagar-ecil",
+      "name": "Sri Lakshmi arcade",
+      "description": "Premium commercial complex with state-of-the-art facilities and strategic location for businesses.",
+      "location": "Kamala Nagar,Ecil,Hyderabad",
+      "image": "/images/project2.jpg",
+      "units": 10,
+      "status": "ongoing",
+      "completionDate": "December 2025",
+      "category": "commercial",
+      "amenities": [
+        "24/7 Security & CCTV Surveillance",
+        "High-Speed Elevators",
+        "Ample Parking Space",
+        "Power Backup",
+        "Fire Safety Systems",
+        "Centralized Air Conditioning",
+        "High-Speed Internet Connectivity",
+        "Cafeteria Space"
+      ],
+      "unitAvailability": [
+        {
+          "type": "Compact Office Unit",
+          "size": "350-500 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "Standard Office Unit",
+          "size": "600-900 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "Retail Space",
+          "size": "800-1200 sq.ft",
+          "price": "On Request",
+          "status": "Limited",
+          "verified": false
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243647.3160419252!2d78.24323089999999!3d17.4123487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99daeaebd2c7%3A0xae93b78392bafbc2!2sHyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1234567890"
+    },
+    {
+      "id": 3,
+      "name": "SREE SIRI KALA PALACE",
+      "description": "Eco-friendly independent villas surrounded by lush greenery and modern infrastructure.",
+      "location": "Sri Nagar,Ecil,Hyderabad",
+      "image": "/images/project3.jpg",
+      "units": 8,
+      "status": "completed",
+      "completionDate": "August 2023",
+      "category": "residential",
+      "amenities": [
+        "24/7 Security & CCTV Surveillance",
+        "Power Backup",
+        "Covered Car Parking",
+        "Children's Play Area",
+        "Landscaped Gardens",
+        "Rainwater Harvesting",
+        "Community Hall",
+        "Lift Access"
+      ],
+      "unitAvailability": [
+        {
+          "type": "2 BHK",
+          "size": "950-1100 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "3 BHK",
+          "size": "1350-1550 sq.ft",
+          "price": "On Request",
+          "status": "Limited",
+          "verified": false
+        },
+        {
+          "type": "4 BHK",
+          "size": "1800-2100 sq.ft",
+          "price": "On Request",
+          "status": "Few Units Left",
+          "verified": false
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243647.3160419252!2d78.24323089999999!3d17.4123487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99daeaebd2c7%3A0xae93b78392bafbc2!2sHyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1234567890"
+    },
+    {
+      "id": 4,
+      "name": "Sri Sai Enclave",
+      "description": "Affordable housing project with quality construction and essential amenities for modern living.",
+      "location": "Near Skandagiri Temple,Secunderabad",
+      "image": "/images/project4.jpg",
+      "units": 8,
+      "status": "ongoing",
+      "completionDate": "March 2025",
+      "category": "residential",
+      "amenities": [
+        "24/7 Security & CCTV Surveillance",
+        "Power Backup",
+        "Covered Car Parking",
+        "Children's Play Area",
+        "Landscaped Gardens",
+        "Rainwater Harvesting",
+        "Community Hall",
+        "Lift Access"
+      ],
+      "unitAvailability": [
+        {
+          "type": "2 BHK",
+          "size": "950-1100 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "3 BHK",
+          "size": "1350-1550 sq.ft",
+          "price": "On Request",
+          "status": "Limited",
+          "verified": false
+        },
+        {
+          "type": "4 BHK",
+          "size": "1800-2100 sq.ft",
+          "price": "On Request",
+          "status": "Few Units Left",
+          "verified": false
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243647.3160419252!2d78.24323089999999!3d17.4123487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99daeaebd2c7%3A0xae93b78392bafbc2!2sHyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1234567890"
+    },
+    {
+      "id": 5,
+      "name": "KOUSALYA'S SANTUSHTI",
+      "description": "Modern IT park with cutting-edge infrastructure designed for technology companies.",
+      "location": "MJ Nagar,Moulali Nagar,Hyderabad",
+      "image": "/images/project5.jpg",
+      "units": 20,
+      "status": "completed",
+      "completionDate": "December 2025",
+      "category": "commercial",
+      "amenities": [
+        "24/7 Security & CCTV Surveillance",
+        "High-Speed Elevators",
+        "Ample Parking Space",
+        "Power Backup",
+        "Fire Safety Systems",
+        "Centralized Air Conditioning",
+        "High-Speed Internet Connectivity",
+        "Cafeteria Space"
+      ],
+      "unitAvailability": [
+        {
+          "type": "Compact Office Unit",
+          "size": "350-500 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "Standard Office Unit",
+          "size": "600-900 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "Retail Space",
+          "size": "800-1200 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243647.3160419252!2d78.24323089999999!3d17.4123487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99daeaebd2c7%3A0xae93b78392bafbc2!2sHyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1234567890"
+    }
+  ],
+  "galleryProjects": [
+    {
+      "id": 6,
+      "name": "Royal Heights",
+      "description": "Ultra-luxury penthouses with panoramic city views and world-class amenities.",
+      "location": "karthikeya Nagar,Hyderabad",
+      "image": "/images/project6.jpg",
+      "units": 8,
+      "status": "completed",
+      "completionDate": "May 2023",
+      "category": "residential",
+      "amenities": [
+        "24/7 Security & CCTV Surveillance",
+        "Power Backup",
+        "Covered Car Parking",
+        "Children's Play Area",
+        "Landscaped Gardens",
+        "Rainwater Harvesting",
+        "Community Hall",
+        "Lift Access"
+      ],
+      "unitAvailability": [
+        {
+          "type": "2 BHK",
+          "size": "950-1100 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "3 BHK",
+          "size": "1350-1550 sq.ft",
+          "price": "On Request",
+          "status": "Limited",
+          "verified": false
+        },
+        {
+          "type": "4 BHK",
+          "size": "1800-2100 sq.ft",
+          "price": "On Request",
+          "status": "Few Units Left",
+          "verified": false
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243647.3160419252!2d78.24323089999999!3d17.4123487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99daeaebd2c7%3A0xae93b78392bafbc2!2sHyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1234567890"
+    },
+    {
+      "id": 7,
+      "name": "Sunrise Apartments",
+      "description": "Contemporary apartments with excellent ventilation and natural lighting.",
+      "location": "Kondapur, Hyderabad",
+      "image": "/images/project7.jpg",
+      "units": 72,
+      "status": "ongoing",
+      "completionDate": "September 2024",
+      "category": "residential",
+      "amenities": [
+        "24/7 Security & CCTV Surveillance",
+        "Power Backup",
+        "Covered Car Parking",
+        "Children's Play Area",
+        "Landscaped Gardens",
+        "Rainwater Harvesting",
+        "Community Hall",
+        "Lift Access"
+      ],
+      "unitAvailability": [
+        {
+          "type": "2 BHK",
+          "size": "950-1100 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "3 BHK",
+          "size": "1350-1550 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "4 BHK",
+          "size": "1800-2100 sq.ft",
+          "price": "On Request",
+          "status": "Few Units Left",
+          "verified": false
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243647.3160419252!2d78.24323089999999!3d17.4123487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99daeaebd2c7%3A0xae93b78392bafbc2!2sHyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1234567890"
+    },
+    {
+      "id": 8,
+      "name": "Metro Mall Complex",
+      "description": "Multi-level shopping and entertainment complex with premium retail spaces.",
+      "location": "Kukatpally, Hyderabad",
+      "image": "/images/project8.jpg",
+      "units": 150,
+      "status": "completed",
+      "completionDate": "January 2023",
+      "category": "commercial",
+      "amenities": [
+        "24/7 Security & CCTV Surveillance",
+        "High-Speed Elevators",
+        "Ample Parking Space",
+        "Power Backup",
+        "Fire Safety Systems",
+        "Centralized Air Conditioning",
+        "High-Speed Internet Connectivity",
+        "Cafeteria Space"
+      ],
+      "unitAvailability": [
+        {
+          "type": "Compact Office Unit",
+          "size": "350-500 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "Standard Office Unit",
+          "size": "600-900 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "Retail Space",
+          "size": "800-1200 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243647.3160419252!2d78.24323089999999!3d17.4123487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99daeaebd2c7%3A0xae93b78392bafbc2!2sHyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1234567890"
+    },
+    {
+      "id": 9,
+      "name": "Skyline Towers",
+      "description": "Modern high-rise residential complex with stunning city views.",
+      "location": "Bhaskar Rao Nagar,Ecil,Hyderabad",
+      "image": "/images/project9.jpg",
+      "units": 180,
+      "status": "completed",
+      "completionDate": "August 2025",
+      "category": "residential",
+      "amenities": [
+        "24/7 Security & CCTV Surveillance",
+        "Power Backup",
+        "Covered Car Parking",
+        "Children's Play Area",
+        "Landscaped Gardens",
+        "Rainwater Harvesting",
+        "Community Hall",
+        "Lift Access"
+      ],
+      "unitAvailability": [
+        {
+          "type": "2 BHK",
+          "size": "950-1100 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "3 BHK",
+          "size": "1350-1550 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "4 BHK",
+          "size": "1800-2100 sq.ft",
+          "price": "On Request",
+          "status": "Few Units Left",
+          "verified": false
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243647.3160419252!2d78.24323089999999!3d17.4123487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99daeaebd2c7%3A0xae93b78392bafbc2!2sHyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1234567890"
+    },
+    {
+      "id": 10,
+      "name": "Business Hub",
+      "description": "Premium office spaces designed for modern businesses.",
+      "location": "Sanikpuri,Ecil,Hyderabad",
+      "image": "/images/project10.jpg",
+      "units": 30,
+      "status": "completed",
+      "completionDate": "November 2025",
+      "category": "commercial",
+      "amenities": [
+        "24/7 Security & CCTV Surveillance",
+        "High-Speed Elevators",
+        "Ample Parking Space",
+        "Power Backup",
+        "Fire Safety Systems",
+        "Centralized Air Conditioning",
+        "High-Speed Internet Connectivity",
+        "Cafeteria Space"
+      ],
+      "unitAvailability": [
+        {
+          "type": "Compact Office Unit",
+          "size": "350-500 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "Standard Office Unit",
+          "size": "600-900 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "Retail Space",
+          "size": "800-1200 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243647.3160419252!2d78.24323089999999!3d17.4123487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99daeaebd2c7%3A0xae93b78392bafbc2!2sHyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1234567890"
+    },
+    {
+      "id": 11,
+      "name": "Garden Residences",
+      "description": "Spacious apartments with landscaped gardens and recreational facilities.",
+      "location": "Kokapet, Hyderabad",
+      "image": "/images/project12.jpg",
+      "units": 64,
+      "status": "completed",
+      "completionDate": "March 2023",
+      "category": "residential",
+      "amenities": [
+        "24/7 Security & CCTV Surveillance",
+        "Power Backup",
+        "Covered Car Parking",
+        "Children's Play Area",
+        "Landscaped Gardens",
+        "Rainwater Harvesting",
+        "Community Hall",
+        "Lift Access"
+      ],
+      "unitAvailability": [
+        {
+          "type": "2 BHK",
+          "size": "950-1100 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "3 BHK",
+          "size": "1350-1550 sq.ft",
+          "price": "On Request",
+          "status": "Available",
+          "verified": false
+        },
+        {
+          "type": "4 BHK",
+          "size": "1800-2100 sq.ft",
+          "price": "On Request",
+          "status": "Few Units Left",
+          "verified": false
+        }
+      ],
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243647.3160419252!2d78.24323089999999!3d17.4123487!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99daeaebd2c7%3A0xae93b78392bafbc2!2sHyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1234567890"
+    }
+  ]
+}
